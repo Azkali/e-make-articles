@@ -1,3 +1,5 @@
+# What is Banans ?
+
 BanansBlyat is a Pi0 DAC music player and MiniEmulator and USB DAC.
 It is based on a custom add-on that ships with:
 - GPIO Routing
