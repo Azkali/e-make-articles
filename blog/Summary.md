@@ -28,5 +28,3 @@ A portable speaker module for the ESP32 TTGO TM.
 # LinuxOnMobile Case Design
 
 With GNU/Linux OS's approaching on Phones, this case will transform your phone into a small laptop.
-
---------------------------------------------------------------------------------------------------------------------------
