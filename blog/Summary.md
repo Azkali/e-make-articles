@@ -1,6 +1,6 @@
 # What is E-Make?
 
-To be added
+E-Make is the roundabout for project Makers.
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ It is meant to be ultra portable.
 
 --------------------------------------------------------------------------------------------------------------------------
 
-# What is Banans ?
+# What is BananaPi ?
 
-BanansBlyat is a Pi0 DAC music player and MiniEmulator and USB DAC.
+BananaPi is a Pi0 DAC music player and MiniEmulator and USB DAC.
 It is based on a custom add-on that ships with:
 and should be used with any AMP/DAC/ADC HAT for Pi0.
 
